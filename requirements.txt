@@ -1,0 +1,13 @@
+streamlit
+langchain
+langchain-community
+qdrant-client
+ollama
+beautifulsoup4
+requests
+pypdf2
+python-dotenv
+pandas
+numpy
+sentence-transformers
+pdfplumber
